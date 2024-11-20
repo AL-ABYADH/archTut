@@ -1,0 +1,2 @@
+class BookHasNoAuthorException(Exception):
+    pass
